@@ -1,0 +1,10 @@
+mcp:
+  name: "DevgraphMCPServer"
+  host: "127.0.0.1"
+  port: 9000
+  base_url: "http://localhost:9000"
+  molecules:
+    - name: "dora"
+      type: "dorademo.molecules.devgraph.ai"
+      config:
+        base_url: "http://localhost:9000"
