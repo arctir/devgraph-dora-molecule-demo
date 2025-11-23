@@ -6,6 +6,8 @@ A demo repository showcasing how to build a [devgraph-ai](https://github.com/arc
 
 This is a contrived example demonstrating how users can leverage devgraph-ai renderers to display their own custom UI widgets alongside AI tool results.
 
+![DORA Metrics Demo](screenshot.png)
+
 ## What This Demonstrates
 
 ### Static Asset Serving from MCP Server
